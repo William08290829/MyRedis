@@ -1,5 +1,5 @@
 # MYREDIS
-資料結構作業
+資料結構專案
 指令包含:
 * KEY: (get/set/update/del)
 * LIST: (lpush/rpush/lpop/rpop/llen/lrange)
